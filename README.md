@@ -1,4 +1,4 @@
-Don't use this... but incase you did:
+Don't use this... but incase you did want to:
 
 # InvestscreenshotAI
 Takes a screenshot of the screen with an investment chart and tells you if you should buy, sell, or hold using OpenAI's new really cheap GPT-5-Nano model.
